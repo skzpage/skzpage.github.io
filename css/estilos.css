@@ -1,0 +1,141 @@
+@charset "utf-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&family=Nerko+One&family=Quicksand&display=swap');
+body, p{
+  font-family: "Quicksand", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.card-header{
+	color: #013e8f;
+}
+.card .card-title {
+    color: #013e8f; /* Azul oscuro */
+    font-size: 30px;
+    font-family: "Nerko One", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+#header{
+  font-family: "Nerko One", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: #013e8f;
+  font-size: 50px;
+  text-align: center;
+}
+.titulo{
+  font-family: "Nerko One", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: #013e8f;
+  font-size: 35px;
+}
+.nav-tabs {
+	background-color: #013e8f;
+	color: white;
+	border-color: white;
+}
+.nav-item .nav-link {
+    color:white;
+}
+.nav-link:hover {
+    background-color: white; 
+    color: #013e8f; 
+}
+.jumbotron{
+	background-color: #B9D4EC;
+	padding-top: 40px;
+	padding-bottom: 20px;
+}
+.card{
+	margin-bottom: 20px;
+}
+.card-header h5 a{
+  font-family: "Nerko One", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: black;
+  font-size: 35px;
+}
+.card-header h5 a{
+	color: white;
+	text-decoration: none;
+}
+.collapse .card-body{
+	background-color: #B9D4EC;
+}
+.card-body h4{
+	color: #013e8f;
+    font-size: 30px;
+    font-family: "Nerko One", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+ul{
+	list-style-type: disc;
+}
+
+.animate_animated {
+}
+.animate__bounce {
+}
+.animate__animated {
+}
+.animate__slower {
+}
+.animate__slideInLeft {
+}
+.animate__delay-5s {
+}
+.animate__delay-3s {
+}
+.animate__rubberBand {
+}
+.animate__slow {
+}
+.animate__delay-1s {
+}
+.animate__repeat-3 {
+}
+.animate__slideInDown {
+}
+.animate__delay-2s {
+}
+.text-center a .btn.btn-primary {
+    background-color: #841517;
+}
+.card .card-body .btn.btn-dark.btn-primary {
+    background-color: #000000;
+    -webkit-box-shadow: inset 0px 0px #000000;
+    box-shadow: inset 0px 0px #000000;
+}
+.text-center a .btn.btn-primary:hover {
+    background-color: #CF2023;
+}
+.card .card-body .btn.btn-dark.btn-primary:hover {
+    background-color: #404040;
+    text-decoration: underline;
+}
+.jumbotron .lead .btn.btn-dark.btn-primary.btn-lg:hover {
+    text-decoration: underline;
+}
+#headingOne1 .mb-0 a:hover {
+    text-decoration: underline;
+}
+#headingTwo1 .mb-0 .collapsed:hover {
+    text-decoration: underline;
+}
+#headingThree1 .mb-0 .collapsed:hover {
+    text-decoration: underline;
+}
+
+
+
+
+
+
+.animate__zoomIn {
+}
